@@ -1,5 +1,8 @@
 
-package PruebasUnitarias;
+package com.pruebasUnitarias.Class.Service;
+
+import com.pruebasUnitarias.Class.Entity.Order;
+import com.pruebasUnitarias.Class.Repository.OrderRepository;
 
 import java.util.List;
 

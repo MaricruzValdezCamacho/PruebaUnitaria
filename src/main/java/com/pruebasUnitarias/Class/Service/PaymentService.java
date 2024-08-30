@@ -1,4 +1,4 @@
-package PruebasUnitarias;
+package com.pruebasUnitarias.Class.Service;
 
 public interface PaymentService {
 

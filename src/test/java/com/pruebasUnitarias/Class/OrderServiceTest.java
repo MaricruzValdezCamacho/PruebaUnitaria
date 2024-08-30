@@ -1,5 +1,9 @@
-package PruebasUnitarias;
+package com.pruebasUnitarias.Class;
 
+import com.pruebasUnitarias.Class.Entity.Order;
+import com.pruebasUnitarias.Class.Repository.OrderRepository;
+import com.pruebasUnitarias.Class.Service.OrderService;
+import com.pruebasUnitarias.Class.Service.PaymentService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

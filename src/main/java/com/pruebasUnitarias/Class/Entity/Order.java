@@ -1,4 +1,4 @@
-package PruebasUnitarias;
+package com.pruebasUnitarias.Class.Entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

@@ -1,4 +1,6 @@
-package PruebasUnitarias;
+package com.pruebasUnitarias.Class.Repository;
+
+import com.pruebasUnitarias.Class.Entity.Order;
 
 import java.util.List;
 import java.util.Optional;
